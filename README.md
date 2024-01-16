@@ -12,6 +12,7 @@
 
 ## Frameworks
 * [Catch2](https://github.com/catchorg/Catch2/tree/v2.x)
+* [Winsock](https://github.com/tpn/winsdk-10)
 
 ## Icons
 * Link: https://www.flaticon.com/free-icons/coding
