@@ -12,6 +12,15 @@
 * Windows
 * Networking
 
+## User Instructions
+When compiling (-lws2_32)
+```
+ g++ TCPserver.cpp testTCPserver.cpp -o newTest -lws2_32
+```
+```
+ g++ -o myProgram TCPserver.cpp run.cpp -lws2_32
+```
+
 ## Frameworks
 * [Catch2](https://github.com/catchorg/Catch2/tree/v2.x)
 * [Winsock](https://github.com/tpn/winsdk-10)
