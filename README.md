@@ -4,3 +4,11 @@
 
 ### This is a small TCP/IP Application programed with C++ and winsock2 Framework
 
+* C++
+* Winsock2
+* Catch2
+* TCP/IP
+
+## Frameworks
+
+## Icons
