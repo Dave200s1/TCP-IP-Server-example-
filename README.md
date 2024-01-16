@@ -9,6 +9,8 @@
 * Winsock2
 * Catch2
 * TCP/IP
+* Windows
+* Networking
 
 ## Frameworks
 * [Catch2](https://github.com/catchorg/Catch2/tree/v2.x)
